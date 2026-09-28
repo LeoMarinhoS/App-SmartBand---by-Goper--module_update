@@ -1,7 +1,19 @@
 {
-  "versionCode": 6,
-  "versionName": "2.32",
+  "versionCode": 7,
+  "versionName": "2.33",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
-  "releaseNotes": "v2.32 - Correções de conexão.\nMelhorias na tela de sono.\nAjustes de estabilidade. \n Notas de versões.\n\n\n"
+    "releaseNotes": [
+    "v2.32",
+    "• Correções de conexão.",
+    "• Melhorias na tela de sono.",
+    "• Ajustes de estabilidade.",
+    "• Notas de versões.",
+    "• Melhorias na interface do usuário.",
+    "• Correções de bugs.",
+    "\n\n\n\n",
+    "v2.33",
+    "• Melhorias de desempenho.",
+    "• Multiplas sessões de sono no histórico."
+  ]
 
 }
