@@ -1,8 +1,12 @@
 {
-  "versionCode": 12,
-  "versionName": "2.35",
+  "versionCode": 13,
+  "versionName": "2.36",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
     "releaseNotes": [
+    "v2.36",
+    "• Adicionado Cad de Frequência cardíaca mínima dormindo.",
+    "• Cad de BPM min dormindo, ao clicar, mostra sessões de sono ja processadas.",
+    "\n",
     "v2.35",
     "• Melhorias de desempenho.",
     "• Ajustes de estabilidade.",
