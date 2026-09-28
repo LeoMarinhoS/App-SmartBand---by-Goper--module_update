@@ -1,8 +1,16 @@
 {
-  "versionCode": 11,
-  "versionName": "2.34",
+  "versionCode": 12,
+  "versionName": "2.35",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
     "releaseNotes": [
+    "v2.35",
+    "• Melhorias de desempenho.",
+    "• Ajustes de estabilidade.",
+    "• Timestamp de leitura do dispositivo corrigido.",
+    "• Variabilidade apenas nofitificação no aplicativo.",
+    "• Tempo entre leituras de características BLE ajustado.",
+    "• Adicionado código de alerta de entrada no modo de sono.",
+    "\n",
     "v2.33",
     "• Melhorias de desempenho.",
     "• Multiplas sessões de sono no histórico salvo.",
