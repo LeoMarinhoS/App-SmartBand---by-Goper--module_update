@@ -1,5 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "2.30",
-  "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk"
+  "versionCode": 5,
+  "versionName": "2.31",
+  "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
+  "releaseNotes": "v2.31 - Correções de conexão.\nMelhorias na tela de sono.\nAjustes de estabilidade. \n Notas de versões.\n\n\n"
+  
 }
