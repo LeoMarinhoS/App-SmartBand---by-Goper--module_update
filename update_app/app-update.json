@@ -1,11 +1,20 @@
 {
-  "versionCode": 13,
-  "versionName": "2.36",
+  "versionCode": 14,
+  "versionName": "2.37",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
     "releaseNotes": [
+    "v2.33",
+    "• Adicionado BPM mínimo detectado em cada sessão de sono.",
+    "• Histórico de sono agora mostra BPM mínimo detectado em cada sessão.",
+    "• Melhorias de desempenho.",
+    "• ATENÇÃO: Para que o BPM mínimo seja detectado, é necessário que a pulseira esteja com a função de monitoramento de sono ativada e haja uma sessão de sono propriamente dira. Caso contrário, o BPM mínimo não será detectado.",
+    "• Aqui quem vos fala é ele, o Goper. E eu estou muito feliz em anunciar que a versão 2.37 do aplicativo SmartApp by Goper está finalmente disponível para download! Esta atualização traz melhorias significativas na detecção do BPM mínimo durante o sono, além de ajustes de desempenho e estabilidade. Não se esqueça de ativar a função de monitoramento de sono na sua pulseira para aproveitar ao máximo essa nova funcionalidade. Aproveite a atualização e continue cuidando da sua saúde com o SmartApp by Goper!",
+    "• Essa é a engenharia, aplicação prática do conhecimento científico!",
+    "\n",
     "v2.36",
     "• Adicionado Cad de Frequência cardíaca mínima dormindo.",
     "• Cad de BPM min dormindo, ao clicar, mostra sessões de sono ja processadas.",
+    "• Essa é a engenharia, aplicação prática do conhecimento científico!",
     "\n",
     "v2.35",
     "• Melhorias de desempenho.",
@@ -14,11 +23,13 @@
     "• Variabilidade apenas nofitificação no aplicativo.",
     "• Tempo entre leituras de características BLE ajustado.",
     "• Adicionado código de alerta de entrada no modo de sono.",
+    "• Essa é a engenharia, aplicação prática do conhecimento científico!",
     "\n",
     "v2.33",
     "• Melhorias de desempenho.",
     "• Multiplas sessões de sono no histórico salvo.",
     "• Ajustes de estabilidade.",
+    "• Essa é a engenharia, aplicação prática do conhecimento científico!",
     "\n",
     "v2.32",
     "• Correções de conexão.",
@@ -26,7 +37,8 @@
     "• Ajustes de estabilidade.",
     "• Notas de versões.",
     "• Melhorias na interface do usuário.",
-    "• Correções de bugs."
+    "• Correções de bugs.",
+    "• Essa é a engenharia, aplicação prática do conhecimento científico!"
   ]
 
 }
