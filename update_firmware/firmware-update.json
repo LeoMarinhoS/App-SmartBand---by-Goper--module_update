@@ -1,0 +1,12 @@
+{
+  "hardware": "v6",
+  "version": "1.6.90",
+  "firmwareUrl": "https://github.com/Trendxbr/smartband-v6-nrf54L15/raw/refs/heads/Homologation/update_firmware/smartband-v6-nrf54L15.signed.bin",
+  "sha256": "",
+  "releaseNotes": [
+    "v1.6.89",
+    "• Melhorias de desempenho.",
+    "• Ajustes de estabilidade.",
+    "• Essa é a engenharia, aplicação prática do conhecimento científico!"
+  ]
+}
