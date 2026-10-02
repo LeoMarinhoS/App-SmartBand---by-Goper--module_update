@@ -1,8 +1,11 @@
 {
-  "versionCode": 20,
-  "versionName": "2.41",
+  "versionCode": 21,
+  "versionName": "2.42",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
     "releaseNotes": [
+    "2.42",
+    "• Ajuste para não estrapolar no limite de sincronização dados de sono.",
+    "\n",
     "2.41",
     "• Agora a aplicação atualiza o firmware do SmartBand diretamente, sem precisar de selecionar arquivo.",
     "\n",
