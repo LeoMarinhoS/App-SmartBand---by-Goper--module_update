@@ -1,10 +1,10 @@
 {
   "hardware": "v6",
-  "version": "1.6.93",
+  "version": "1.6.94",
   "firmwareUrl": "https://github.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/raw/refs/heads/main/update_firmware/smartband-v6-nrf54L15.signed.bin",
   "sha256": "",
   "releaseNotes": [
-    "v1.6.93",
+    "v1.6.94",
     "• Led apagado a baixo de 95BPM quando setado para modo automático.",
     "• Filtro anti-aliasing na interpolação como exige a documentação PSP",
     "• protegção de todo acesso aos sensores com um mutex",
