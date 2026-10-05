@@ -1,9 +1,10 @@
 {
-  "versionCode": 24,
-  "versionName": "2.45",
+  "versionCode": 25,
+  "versionName": "2.46",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
     "releaseNotes": [
-    "2.45",
+    "2.46",
+    "• Pacotes de sono do SmartBand não serão apagados se a PSP-S não gerar nenhuma sessão de sono para a sincronização.",
     "• Ajuste para não estrapolar no limite de sincronização dados de sono.",
     "\n",
     "2.41",
