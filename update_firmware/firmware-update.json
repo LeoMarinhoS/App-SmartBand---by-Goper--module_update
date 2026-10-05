@@ -1,10 +1,10 @@
 {
   "hardware": "v6",
-  "version": "1.6.98",
+  "version": "1.6.99",
   "firmwareUrl": "https://github.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/raw/refs/heads/main/update_firmware/smartband-v6-nrf54L15.signed.bin",
   "sha256": "",
   "releaseNotes": [
-    "v1.6.98",
+    "v1.6.99",
     "• SLEEP_DUR Ajustado!",
     "• Correção de BPM mínimo ficar preso em um valor inválido.",
     "• Led apagado a baixo de 95BPM quando setado para modo automático..",
