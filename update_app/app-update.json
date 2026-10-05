@@ -1,9 +1,12 @@
 {
-  "versionCode": 25,
+  "versionCode": 26,
   "versionName": "2.46",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
     "releaseNotes": [
     "2.46",
+    "• Histórico de métricas mostram apenas os históricos do usuário logado.",
+    "• Agora é possível selecionar e apagar apenas sessões específicas do histórico.",
+    "• No histórico de sessões de sono agora é possível visualizar o início e o fim de cada sessão.",
     "• Pacotes de sono do SmartBand não serão apagados se a PSP-S não gerar nenhuma sessão de sono para a sincronização.",
     "• Ajuste para não estrapolar no limite de sincronização dados de sono.",
     "\n",
