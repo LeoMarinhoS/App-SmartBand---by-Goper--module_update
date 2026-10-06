@@ -1,8 +1,11 @@
 {
-  "versionCode": 31,
-  "versionName": "2.47",
+  "versionCode": 32,
+  "versionName": "2.48",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
     "releaseNotes": [
+    "2.48",
+    "• Tempo de leitura de informações optimizado.",
+    "\n",
     "2.47",
     "• Adicionado botão de central de notificações.",
     "• Tela de configurações melhorada.",
