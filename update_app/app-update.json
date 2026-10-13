@@ -1,8 +1,13 @@
 {
-  "versionCode": 34,
-  "versionName": "2.49",
+  "versionCode": 35,
+  "versionName": "3.10",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
     "releaseNotes": [
+    "3.10",
+    "• ATENÇÃO: esta versão usa uma nova assinatura de segurança do aplicativo.",
+    "• Se a instalação falhar com a mensagem \"conflito com o pacote já existente\", desinstale o SmartApp e instale esta versão novamente. Isso é necessário apenas uma vez; as próximas atualizações funcionarão normalmente.",
+    "• Ao desinstalar, os dados locais do aplicativo, como histórico de métricas, serão apagados.",
+    "\n",
     "2.48",
     "• Tempo de leitura de informações optimizado.",
     "\n",
