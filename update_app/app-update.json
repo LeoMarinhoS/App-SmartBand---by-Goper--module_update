@@ -1,9 +1,9 @@
 {
-  "versionCode": 38,
-  "versionName": "3.16",
+  "versionCode": 39,
+  "versionName": "3.19",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
-    "3.16",
+    "3.19",
     "• Apager métricas de treino de usuário agora funciona com versão de firmware a partir de 1.7.18",
     "• Sessão de treino agora persiste até ser lida.",
     "• Dashboard de treino totalmente refeito com separação de data, hora de cada sessão de treino. ",
