@@ -1,10 +1,10 @@
 {
   "hardware": "v6",
-  "version": "1.7.19",
+  "version": "1.7.22",
   "firmwareUrl": "https://github.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/raw/refs/heads/main/update_firmware/smartband-v6-nrf54L15.signed.bin",
   "sha256": "",
   "releaseNotes": [
-    "1.7.19",
+    "1.7.22",
     "• Melhorias no reconhecimento de pele e superficies",
     "• Histórico de métricas salvo e só apaga mediante comando.",
     "\n",
