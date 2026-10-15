@@ -1,8 +1,16 @@
 {
-  "versionCode": 46,
-  "versionName": "3.21",
+  "versionCode": 48,
+  "versionName": "3.22",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
+    "3.22",
+    "• Métricas de (meu treino) agora são eximidos separadamente conforme as sessões e data de treinos ",
+    "• Ao baixar o treino, as métricas são apagadas do SmartBand e salvas no histórico de treino e métricas",
+    "• A baixo dos cads de métricas principais, agora tem um cad que leva ao histórico de treinos e sessões",
+    "• Tela de Sobre o Sistema agora exibe as notas de versões da aplicação com novo visual.",
+    "• ATENÇÃO: esta versão usa uma nova assinatura de segurança do aplicativo.",
+    "• By: Leandro Marinho",
+    "\n",
     "3.20",
     "• Apager métricas de treino de usuário agora funciona com versão de firmware a partir de 1.7.18",
     "• Sessão de treino agora persiste até ser lida.",
