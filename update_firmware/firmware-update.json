@@ -1,6 +1,6 @@
 {
   "hardware": "v6",
-  "version": "1.7.24",
+  "version": "1.7.25",
   "firmwareUrl": "https://github.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/raw/refs/heads/main/update_firmware/smartband-v6-nrf54L15.signed.bin",
   "sha256": "",
   "releaseNotes": [
