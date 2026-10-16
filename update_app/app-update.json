@@ -1,8 +1,14 @@
 {
-  "versionCode": 53,
-  "versionName": "3.23",
+  "versionCode": 54,
+  "versionName": "3.24",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
+    "3.24",
+    "• Adicionado informações de RR Interval",
+    "• ATENÇÃO: esta versão usa uma nova assinatura de segurança do aplicativo.",
+    "• Se a instalação falhar com a mensagem \"conflito com o pacote já existente\", desinstale o SmartApp e instale esta versão novamente. Isso é necessário apenas uma vez; as próximas atualizações funcionarão normalmente.",
+    "• By: Leandro Marinho",
+    "\n",
     "3.23",
     "• Métricas de (meu treino) agora são eximidos separadamente conforme as sessões e data de treinos ",
     "• Ao baixar o treino, as métricas são apagadas do SmartBand e salvas no histórico de treino e métricas",
