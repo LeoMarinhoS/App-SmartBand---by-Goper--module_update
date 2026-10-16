@@ -3,7 +3,7 @@
   "versionName": "3.25",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
-    "3.25",
+    "v3.25",
     "• O mcumgr-ble atualizado para 2.7.4 - melhorando significativamente o tempo de upload de firmware",
     "• Adicionado informações de RR Interval",
     "• ATENÇÃO: esta versão usa uma nova assinatura de segurança do aplicativo.",
