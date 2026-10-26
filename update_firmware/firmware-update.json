@@ -4,7 +4,7 @@
   "firmwareUrl": "https://github.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/raw/refs/heads/main/update_firmware/smartband-v6-nrf54L15.signed.bin",
   "sha256": "",
   "releaseNotes": [
-    "1.7.38",
+    "1.7.40",
     "• Proteção da memória: o histórico de treino nunca mais sobrescreve os dados de configuração do usuário. Ao atingir o limite, o histórico é apagado e recomeça do início.",
     "• Histórico de sono com limite definido: ao encher, é apagado e recomeça do início, sem risco de corromper outros dados.",
     "• Atualização da biblioteca Philips mais segura: escrita alinhada na memória, apagamento correto de todas as páginas e verificação de cada bloco gravado.",
