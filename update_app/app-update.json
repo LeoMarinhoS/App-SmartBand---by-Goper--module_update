@@ -1,8 +1,11 @@
 {
-  "versionCode": 66,
-  "versionName": "3.28",
+  "versionCode": 68,
+  "versionName": "3.30",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
+    "v3.30",
+    "• Notas de versões do firmware SmartBand agora aparecem na sessão (Sobre o Sistema)",
+    " ",
     "v3.28",
     "• Agora é possível sincronizar os dados de sono através de notificação BLE (SmartBand empurra os dados), download 10x mais rápido.",
     "• MTU configurado para 517. 2M PHY na conexão, estabilizam a conexão e sincronização contínua e tempo de conexão e reconexão.",
