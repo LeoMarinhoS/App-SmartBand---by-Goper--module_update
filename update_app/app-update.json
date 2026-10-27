@@ -1,8 +1,14 @@
 {
-  "versionCode": 74,
-  "versionName": "3.32",
+  "versionCode": 75,
+  "versionName": "3.33",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
+    "v3.33",
+    "• Status do Sistema (tela principal) agora mostra o MTU negociado e a prioridade de conexão com o intervalo em uso.",
+    "• Aba de SmartBands conectados agora mostra o BPM atual ao lado do nome do usuário.",
+    "• Aviso de MTU menor que o exigido aparece apenas quando o MTU negociado for menor que 512.",
+    "• By: Leandro Marinho",
+    "\n",
     "v3.32",
     "• Área de Administrador agora abre somente com a senha (os atalhos de toque longo foram removidos).",
     "• Parametrização em Massa: nova janela para escolher as pulseiras pelo ID (ex.: 1, 4, 7-10) ou aplicar o comando em todas as visíveis.",
