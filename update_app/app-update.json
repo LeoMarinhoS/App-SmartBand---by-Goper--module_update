@@ -1,11 +1,10 @@
 {
-  "versionCode": 72,
+  "versionCode": 74,
   "versionName": "3.32",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
     "v3.32",
     "• Área de Administrador agora abre somente com a senha (os atalhos de toque longo foram removidos).",
-    "• Novo visual futurista em toda a área de Administrador e na janela de senha.",
     "• Parametrização em Massa: nova janela para escolher as pulseiras pelo ID (ex.: 1, 4, 7-10) ou aplicar o comando em todas as visíveis.",
     "• Monitor de Frequência Cardíaca: na horizontal, dois cards quadrados lado a lado; na vertical, lista com todas as pulseiras visíveis. As informações se ajustam a qualquer tamanho de tela.",
     "• Backup dos dados de saúde: na primeira sincronização de treino o app pergunta se o histórico vai para o backup do Google Drive (restaurado ao reinstalar o app) ou fica apenas no celular. A opção pode ser alterada em Sobre o Sistema.",
