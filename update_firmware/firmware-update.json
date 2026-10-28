@@ -1,10 +1,11 @@
 {
   "hardware": "v6",
-  "version": "2.1.11",
+  "version": "2.1.12",
   "firmwareUrl": "https://github.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/raw/refs/heads/main/update_firmware/smartband-v6-nrf54L15.signed.bin",
   "sha256": "",
   "releaseNotes": [
-    "2.1.11",
+    "2.1.12",
+    "• Correção de aviso de bateria fraca tardio.",
     "• Optimizado para máxima velocidade de processamento (-O2)",
     "• Atualização da plataforma de desenvolvimento do firmware (Nordic nRF Connect SDK 2.9.2 para 3.4.1), base mais recente e com correções de estabilidade do fabricante.",
     "• Atualização via Bluetooth (DFU) mantida compatível: o mapa de memória (bootloader, áreas de atualização, configurações do usuário, histórico de treino e biblioteca Philips) permanece idêntico ao das versões anteriores, e os dados salvos não são perdidos.",
