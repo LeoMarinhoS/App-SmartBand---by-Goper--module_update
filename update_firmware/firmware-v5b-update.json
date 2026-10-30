@@ -1,7 +1,7 @@
 {
   "hardware": "v5b",
   "version": "2.4.11",
-  "firmwareUrl": "https://github.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/raw/refs/heads/main/update_firmware/smartband-v6-nrf54L15.signed.bin",
+  "firmwareUrl": "https://github.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/raw/refs/heads/main/update_firmware/smartband-v5b-nrf52.bin",
   "sha256": "",
   "releaseNotes": [
     "2.1.12",
