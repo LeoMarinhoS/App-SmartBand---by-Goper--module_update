@@ -1,9 +1,11 @@
 {
-  "versionCode": 76,
-  "versionName": "3.34",
+  "versionCode": 78,
+  "versionName": "3.35",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
-    "v3.34",
+    "v3.35",
+    "• Agor a aplicação também atualiza remotamente o SmartBand com hardware v5b",
+    "• Notas de versão, na tela de Sobre o Sistema mostra releaseNotes da versão de firmware/hardware",
     "• Monitor de Frequência Cardíaca agora fica na tela inicial, logo abaixo do botão Conectar SmartBand (saiu da área de Administrador).",
     "• Tela inicial ajusta o tamanho do radar à altura da tela, para que tudo apareça enquadrado ao abrir o app.",
     "• Monitor de Frequência Cardíaca: dois cards quadrados lado a lado em qualquer orientação da tela (vertical ou horizontal), sempre enquadrados.",
