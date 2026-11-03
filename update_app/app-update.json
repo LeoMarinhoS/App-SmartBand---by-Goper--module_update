@@ -1,10 +1,14 @@
 {
-  "versionCode": 78,
-  "versionName": "3.35",
+  "versionCode": 80,
+  "versionName": "3.36",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
+    "v3.36",
+    "• Agora o aplicativo força a saída de um pacote de sono, caso o smartband não tenha gerado um pacote de fim de sessão até o ultimo pacote disponível",
+    "• By: Leandro Marinho",
+    "",
     "v3.35",
-    "• Agor a aplicação também atualiza remotamente o SmartBand com hardware v5b",
+    "• Agora a aplicação também atualiza remotamente o SmartBand com hardware v5b",
     "• Notas de versão, na tela de Sobre o Sistema mostra releaseNotes da versão de firmware/hardware",
     "• Monitor de Frequência Cardíaca agora fica na tela inicial, logo abaixo do botão Conectar SmartBand (saiu da área de Administrador).",
     "• Tela inicial ajusta o tamanho do radar à altura da tela, para que tudo apareça enquadrado ao abrir o app.",
