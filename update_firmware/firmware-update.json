@@ -1,10 +1,10 @@
 {
   "hardware": "v6",
-  "version": "2.1.13",
+  "version": "2.1.14",
   "firmwareUrl": "https://github.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/raw/refs/heads/main/update_firmware/smartband-v6-nrf54L15.signed.bin",
   "sha256": "",
   "releaseNotes": [
-    "2.1.13",
+    "2.1.14",
     "• Correção de inícialização lenta após muito tempo de uso em modo automático.",
     "• Correção de aviso de bateria fraca tardio.",
     "• Optimizado para máxima velocidade de processamento (-O2)",
