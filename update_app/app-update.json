@@ -1,9 +1,11 @@
 {
-  "versionCode": 87,
-  "versionName": "3.36",
+  "versionCode": 88,
+  "versionName": "3.38",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
-    "v3.36",
+    "v3.38",
+    "• Agora é possível controlar entre leds acesos ou totalmente apagados em Configurações/Controle do Sistema/Display.",
+    "• Um coraçãozinho piscando aparece ao lado do BPM atual na aba do device conectado, quando o monitor de frequência cardíaca estiver ativo.",
     "• Agora o aplicativo força a saída de um pacote de sono, caso o smartband não tenha gerado um pacote de fim de sessão até o ultimo pacote disponível",
     "• By: Leandro Marinho",
     "",
