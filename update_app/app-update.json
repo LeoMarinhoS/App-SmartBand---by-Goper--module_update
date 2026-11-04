@@ -3,7 +3,7 @@
   "versionName": "3.42",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
-    "v3.41",
+    "v3.42",
     "• Implementação de bashboard completo exibindo métricas de saúde obtidos a partir das leituras de R-R Interval e variabilidade de frqeuência cardíaca.",
     "• Dados de saúde obtidos através do R-R Interval e HRV levam em consideração apenas o tempo em que voce estava em repouso completo (pouco movimento físico) ou dormindo.",
     "• Relatório de saúde salva as sessões com as datas que foi feita a leitura, dividindo entre momento de leitura(Momento em que o SmartBand foi conectado no app), e conforme chegam novas leituras",
