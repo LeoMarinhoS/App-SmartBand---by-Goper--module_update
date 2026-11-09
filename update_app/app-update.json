@@ -1,9 +1,11 @@
 {
-  "versionCode": 97,
-  "versionName": "3.45",
+  "versionCode": 98,
+  "versionName": "3.46",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
-    "v3.45",
+    "v3.46",
+    "• Agora a aplação cria uma instância da PSP-S de processamento para cada device conectado.",
+    "• A PSP agora recebe o nome de usuário real lido do device na inicialização.",
     "• Agora os indicadores de métricas em repouso foram separados em 2, indicador da média mensurada enquanto o smartband não estava conectado ativamente, e em tempo real (em repouso total)",
     "• Implementação de bashboard completo exibindo métricas de saúde obtidos a partir das leituras de R-R Interval e variabilidade de frqeuência cardíaca.",
     "• Dados de saúde obtidos através do R-R Interval e HRV levam em consideração apenas o tempo em que voce estava em repouso completo (pouco movimento físico) ou dormindo.",
