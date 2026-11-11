@@ -3,7 +3,7 @@
   "versionName": "3.48",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
-    "v3.46",
+    "v3.48",
     "• Agora, a aplicação lê e exibe a versão da biblioteca philips instalada no SmartBand na sessão \"Sobre o Sistema\".",
     "• Agora a aplação cria uma instância da PSP-S de processamento para cada device conectado.",
     "• A PSP agora recebe o nome de usuário real lido do device na inicialização.",
