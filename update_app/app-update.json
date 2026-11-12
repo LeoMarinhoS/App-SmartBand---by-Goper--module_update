@@ -1,8 +1,12 @@
 {
-  "versionCode": 102,
-  "versionName": "3.48",
+  "versionCode": 103,
+  "versionName": "3.51",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
+    "3.51",
+    "• Esta versão processa e mostra dados de variabilidade de frequência cardíaca no processamento de sono",
+    "• By: Leandro Marinho",
+    "",
     "v3.48",
     "• Agora, a aplicação lê e exibe a versão da biblioteca philips instalada no SmartBand na sessão \"Sobre o Sistema\".",
     "• Agora a aplação cria uma instância da PSP-S de processamento para cada device conectado.",

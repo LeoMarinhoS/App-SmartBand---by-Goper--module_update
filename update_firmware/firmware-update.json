@@ -1,9 +1,13 @@
 {
   "hardware": "v6",
-  "version": "2.1.18",
+  "version": "3.1.13",
   "firmwareUrl": "https://github.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/raw/refs/heads/main/update_firmware/smartband-v6-nrf54L15.signed.bin",
   "sha256": "",
   "releaseNotes": [
+    "3.1.13",
+    "• Inclusão de pacotes de variabilidade cardíacada durante o sono.",
+    "• Correção de problemas de estabilidade.",
+    "\n",
     "2.1.18",
     "• Agora o firmware anuncia em BLE Legacy, Estendido, e PHY Codded estendido, simultaneamente. Para suporte em receptores BLE com placas de rede genéricas.",
     "• Agora, o firmware suporta a identidade BLE não conectável com endereço estático fixo.",
