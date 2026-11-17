@@ -1,6 +1,6 @@
 {
   "hardware": "v6",
-  "version": "3.2.11",
+  "version": "3.1.19",
   "firmwareUrl": "https://github.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/raw/refs/heads/main/update_firmware/smartband-v6-nrf54L15.signed.bin",
   "sha256": "",
   "releaseNotes": [
@@ -8,6 +8,7 @@
     "• Atualização de sistema de arquivos de NVS para ZMS, no primeiro boot, todos os dados salvos na memória é perdido e zerados.",
     "• Mutex no metric_nv_info. OperationMode e solicitacaoDesligamento como atomic ou eventos.",
     "• Migração do NVS para ZMS, recomendado pela Nordic para a RRAM do nRF54L.",
+    "Só atualizar o advertising quando os dados mudarem.",
     "• Correção de problemas de estabilidade.",
     "\n",
     "3.1.19",
