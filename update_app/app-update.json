@@ -1,9 +1,10 @@
 {
-  "versionCode": 124,
-  "versionName": "3.52",
+  "versionCode": 125,
+  "versionName": "3.53",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
     "3.52",
+    "• Agora, logo abrir o app, se houver noite de sono processada para a ultima noite, mostra os detalhes dela em forma de pop-up ao abrir o App.",
     "• Central de notificações agora exibem apenas errosevice específico conectado, separando erros de avisos e falhas",
     "• Agora o SmartBand coloca todas as leituras em uma fila de requisições para não sobrecarregar o firmware",
     "• Esta versão processa e mostra dados de variabilidade de frequência cardíaca no processamento de sono",
