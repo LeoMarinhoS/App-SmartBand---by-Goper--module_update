@@ -1,9 +1,13 @@
 {
   "hardware": "v6",
-  "version": "3.2.11",
+  "version": "3.2.12",
   "firmwareUrl": "https://github.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/raw/refs/heads/main/update_firmware/smartband-v6-nrf54L15.signed.bin",
   "sha256": "",
   "releaseNotes": [
+    "3.2.12",
+    "• Agora os pacotes de BPM diurante o sono, são enviados nas notificações de estários de sono, com identificador de métrica 0x7c.",
+    "• O BPM mínimo durante o sono é agora calculado e armazenado corretamente, e enviado nas notificações de estários de sono, com identificador de métrica 0x6b.",
+    "",
     "3.2.11",
     "• Atualização de sistema de arquivos de NVS para ZMS, no primeiro boot, todos os dados salvos na memória é perdido e zerados.",
     "• Mutex no metric_nv_info. OperationMode e solicitacaoDesligamento como atomic ou eventos.",
