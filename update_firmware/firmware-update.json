@@ -6,6 +6,7 @@
   "releaseNotes": [
     "3.2.18",
     "• Incluído código de erro que reporta casos de reset do sistema, em caso de falha ou reset do carregador.",
+    "• Incluído código de erro que reporta casos de perda de tempo UTC, em caso de falha ou reset do carregador.",
     "• Correção de problema que fazia com que o app não conseguisse descobrir os serviços BLE do smartband, quando o smartband tinha muitos dados salvos na flash.",
     "",
     "\n",
