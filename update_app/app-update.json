@@ -3,7 +3,7 @@
   "versionName": "3.56",
   "apkUrl": "https://raw.githubusercontent.com/LeoMarinhoS/App-SmartBand---by-Goper--module_update/main/update_app/SmartApp%20-%20by%20Goper.apk",
   "releaseNotes": [
-    "3.55",
+    "3.56",
     "• Esta versão melhora significativamente o desempenho e responsividade da aplicação em celulares com pouco poder de processamento.",
     "• Motor de detecção e processamento de treino (Fórmula de Tanaka) agora processa apenas o que já não foi processado, e mantem o ja processado em cache no app.",
     "• By: Leandro Marinho",
