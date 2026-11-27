@@ -5,6 +5,7 @@
   "releaseNotes": [
     "3.58",
     "• Agora as horas do SmartBand precisam ser setadas manualmente.",
+    "• Ao conectar um SmartBand, se a hora do SmartBand estiver atradada, o app pergunta se deseja sincronizar a hora do SmartBand com a hora do celular.",
     "• Esta versão melhora significativamente o desempenho e responsividade da aplicação em celulares com pouco poder de processamento.",
     "• Motor de detecção e processamento de treino (Fórmula de Tanaka) agora processa apenas o que já não foi processado, e mantem o ja processado em cache no app.",
     "• By: Leandro Marinho",
